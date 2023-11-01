@@ -1,0 +1,5 @@
+This is the new data you want to append
+Hello! Shahed. Welcome to PHP WORLD! New Data is inserting into a text file for task-2
+Hello! Shahed. Welcome to PHP WORLD! New data is inserting into a text file for task-2
+Hello! Shahed. Welcome to PHP WORLD! New data is inserting into a text file for task-2
+Hello! Shahed. Welcome to PHP WORLD! New data is inserting into a text file for task-2
